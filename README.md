@@ -36,7 +36,7 @@ This project is a prototype and was built by me as my **first-ever iOS app**, us
 
 | Welcome | Add Tag | View Tags |
 |--------|---------|-----------|
-| ![welcome](screens/welcome.png) | ![add](screens/add.png) | ![tags](screens/tags.png) |
+| ![welcome]([screens/welcome.png](https://github.com/BoYA212/InovationFest2025/blob/main/screens:welcome.png?raw=true)) | ![add](screens/add.png) | ![tags](screens/tags.png) |
 
 ---
 
